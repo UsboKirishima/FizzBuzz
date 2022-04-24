@@ -1,8 +1,6 @@
 <div align="center">
   
 # FizzBuzz
-The first exercise to learn how to make algorithms.
+Make a Pull Request with your FizzBuzz in your fav programming language!
 
   </div>
-  
-Try the exercise [here](https://leetcode.com/problems/fizz-buzz/)
